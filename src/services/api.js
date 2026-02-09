@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8080'; // Defaulting to localhost as discussed
+const API_BASE_URL = '/api'; // Using Vercel Serverless Functions path
 
 export const api = {
   // Product endpoints
